@@ -15,6 +15,9 @@ This repo can be used for:
 - Auditing tool benchmarks
 - Proof-of-concept attack testing
 
+### Scope
+- all files in the contract folder is in scope. 
+
 ## Compile
 
 ```bash
